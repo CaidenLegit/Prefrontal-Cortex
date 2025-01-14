@@ -1,4 +1,6 @@
 body {
   background-color: pink;
-  text-color: IndianRed;
+}
+* {
+  color: IndianRed;
 }
